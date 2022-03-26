@@ -19,7 +19,7 @@ class _MyAppState extends State<MyApp> {
     return Scaffold(
       appBar: AppBar(),
       body: Container(
-        child: Text("Hello"),
+        child: Text("Hello "),
       ),
     );
   }
